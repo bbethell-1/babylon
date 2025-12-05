@@ -10,8 +10,8 @@
   "learn_more_link": "https://content.redhat.com/us/en/product/cross-portfolio-initiatives/rhdp.html",
   "workshop_support_text": "Workshop Support",
   "workshop_support_link": "red.ht/workshop-help",
-  "onboarding_support_text:" "Onboarding Support",
-  "onboarding_support_link:" "red.ht/demo-onboarding",
+  "onboarding_support_text": "Onboarding Support",
+  "onboarding_support_link": "red.ht/demo-onboarding",
   "sfdc_enabled": true,
   "partner_connect_header_enabled": false
 }
